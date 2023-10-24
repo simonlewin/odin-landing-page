@@ -10,6 +10,7 @@ body {
 }
 
 .header,
+.hero,
 .footer {
   background-color: #1f2937;
 }
@@ -50,4 +51,9 @@ ul {
 a {
   /* this removes the line under the links */
   text-decoration: none;
+}
+
+.hero {
+  display: flex;
+  gap: 32px;
 }
