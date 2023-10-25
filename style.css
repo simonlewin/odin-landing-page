@@ -79,9 +79,14 @@ img {
   width: 500px;
 }
 
+.info-header,
+.quote,
+.quote-caption {
+  font-size: 36px;
+}
+
 .info-header {
   color: #1f2937;
-  font-size: 36px;
 }
 
 .info-container {
@@ -98,4 +103,12 @@ img {
 
 .info img {
   width: 200px;
+}
+
+.quote-container {
+  background-color: #e5e7eb;
+}
+
+.quote {
+  font-style: italic;
 }
