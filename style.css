@@ -33,8 +33,12 @@ a {
   align-items: center;
 }
 
-.logo {
+.logo,
+.main {
   color: #f9faf8;
+}
+
+.logo {
   font-size: 24px;
 }
 
@@ -56,4 +60,9 @@ a {
 .hero {
   display: flex;
   gap: 32px;
+}
+
+.main {
+  font-size: 49px;
+  font-weight: 900;
 }
