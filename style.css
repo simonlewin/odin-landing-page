@@ -83,3 +83,7 @@ img {
   color: #1f2937;
   font-size: 36px;
 }
+
+.info img {
+  width: 200px;
+}
