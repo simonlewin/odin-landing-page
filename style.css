@@ -141,3 +141,8 @@ img {
 .quote {
   font-style: italic;
 }
+
+.cta-container {
+  display: flex;
+  gap: 32px;
+}
