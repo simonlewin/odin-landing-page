@@ -73,6 +73,7 @@ a {
 .hero {
   display: flex;
   gap: 32px;
+  padding: 2% 15%;
 }
 
 .hero-left {
