@@ -89,6 +89,15 @@ img {
   width: 500px;
 }
 
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+}
+
 .info-header,
 .quote {
   font-size: 36px;
