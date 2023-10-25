@@ -36,11 +36,13 @@ a,
 
 .logo,
 .main,
-button {
+button,
+.cta-container {
   color: #f9faf8;
 }
 
-.logo {
+.logo,
+.cta-header {
   font-size: 24px;
 }
 
@@ -69,10 +71,14 @@ a {
   font-weight: 900;
 }
 
+button,
+.cta-container {
+  background-color: #3882f6;
+}
+
 button {
   font-size: 18px;
   font-weight: 700;
-  background-color: #3882f6;
 }
 
 img {
