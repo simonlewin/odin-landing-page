@@ -35,7 +35,8 @@ a,
 }
 
 .logo,
-.main {
+.main,
+button {
   color: #f9faf8;
 }
 
@@ -66,4 +67,10 @@ a {
 .main {
   font-size: 48px;
   font-weight: 900;
+}
+
+button {
+  font-size: 18px;
+  font-weight: 700;
+  background-color: #3882f6;
 }
