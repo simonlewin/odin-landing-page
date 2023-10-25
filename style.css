@@ -135,6 +135,7 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  width: 180px;
 }
 
 .info img {
