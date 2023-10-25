@@ -78,3 +78,8 @@ button {
 img {
   width: 500px;
 }
+
+.info-header {
+  color: #1f2937;
+  font-size: 36px;
+}
