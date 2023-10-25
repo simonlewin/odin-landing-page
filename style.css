@@ -70,6 +70,14 @@ a {
   gap: 32px;
 }
 
+.hero-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 16px;
+}
+
 .main {
   font-size: 48px;
   font-weight: 900;
