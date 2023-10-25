@@ -78,6 +78,7 @@ a {
 button,
 .cta-container {
   background-color: #3882f6;
+  border-radius: 10px;
 }
 
 button {
