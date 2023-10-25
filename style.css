@@ -84,6 +84,19 @@ img {
   font-size: 36px;
 }
 
+.info-container {
+  display: flex;
+  justify-content: space-around;
+  gap: 32px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .info img {
   width: 200px;
 }
