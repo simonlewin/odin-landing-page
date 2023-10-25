@@ -112,6 +112,7 @@ img {
   align-items: center;
   justify-content: center;
   gap: 16px;
+  padding: 2% 15%;
 }
 
 .info-header,
@@ -126,7 +127,7 @@ img {
 
 .info-container {
   display: flex;
-  gap: 32px;
+  gap: 52px;
 }
 
 .info {
@@ -137,7 +138,7 @@ img {
 }
 
 .info img {
-  width: 200px;
+  width: 180px;
 }
 
 .quote-container {
