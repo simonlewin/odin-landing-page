@@ -166,6 +166,10 @@ img {
   margin: 5% 15%;
 }
 
+.cta-container button {
+  border: #f9faf8 solid 1px;
+}
+
 .cta-header {
   padding: 0 0 1%;
 }
