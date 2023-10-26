@@ -71,6 +71,7 @@ a {
   display: flex;
   gap: 32px;
   padding: 5% 15%;
+  flex-wrap: wrap;
 }
 
 .hero-left {
@@ -79,6 +80,7 @@ a {
   justify-content: center;
   align-items: flex-start;
   gap: 16px;
+  width: 400px;
 }
 
 .main {
@@ -125,6 +127,7 @@ img {
 .info-items {
   display: flex;
   gap: 52px;
+  flex-wrap: wrap;
 }
 
 .info {
