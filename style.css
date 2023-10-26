@@ -136,11 +136,11 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 180px;
 }
 
+.info,
 .info img {
-  width: 180px;
+  width: 150px;
 }
 
 .quote-container {
