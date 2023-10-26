@@ -7,10 +7,6 @@ body {
   flex-direction: column;
 }
 
-* {
-  border: red dashed 1px;
-}
-
 .header,
 .hero,
 .footer {
