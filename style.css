@@ -153,6 +153,10 @@ img {
   font-style: italic;
 }
 
+.quote-caption {
+  text-align: end;
+}
+
 .cta-container {
   display: flex;
   gap: 32px;
