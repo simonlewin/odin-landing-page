@@ -141,6 +141,10 @@ img {
   width: 150px;
 }
 
+.info .text {
+  color: #5e5e60;
+}
+
 .quote-container {
   background-color: #e5e7eb;
   padding: 4% 20%;
