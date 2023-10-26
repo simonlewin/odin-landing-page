@@ -113,7 +113,7 @@ img {
   align-items: center;
   justify-content: center;
   gap: 16px;
-  padding: 2% 15%;
+  padding: 4% 15% 7%;
 }
 
 .info-header,
@@ -136,6 +136,8 @@ img {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
+  gap: 12px;
 }
 
 .info,
