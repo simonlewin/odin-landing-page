@@ -69,6 +69,7 @@ a {
 
 .hero {
   display: flex;
+  justify-content: space-between;
   gap: 32px;
   padding: 5% 15%;
   flex-wrap: wrap;
@@ -80,7 +81,7 @@ a {
   justify-content: center;
   align-items: flex-start;
   gap: 16px;
-  width: 400px;
+  max-width: 40%;
 }
 
 .main {
